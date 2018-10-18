@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1539807903 source:d:\lucas\documents\programação\roteiro 3 derzu\q3r3\main.cpp
+	<iostream>
+	"ContaEspecial.h"
+
+1539804744 source:d:\lucas\documents\programação\roteiro 3 derzu\q3r3\src\iconta.cpp
+	"IConta.h"
+
+1539806596 d:\lucas\documents\programação\roteiro 3 derzu\q3r3\include\iconta.h
+
+1539806737 source:d:\lucas\documents\programação\roteiro 3 derzu\q3r3\src\conta.cpp
+	"Conta.h"
+
+1539806737 d:\lucas\documents\programação\roteiro 3 derzu\q3r3\include\conta.h
+	<string>
+	<IConta.h>
+
+1539807442 source:d:\lucas\documents\programação\roteiro 3 derzu\q3r3\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1539807442 d:\lucas\documents\programação\roteiro 3 derzu\q3r3\include\contaespecial.h
+	<Conta.h>
+
+1539821848 source:c:\users\user\desktop\roteiro 3\q3r3\src\conta.cpp
+	"Conta.h"
+
+1539821848 c:\users\user\desktop\roteiro 3\q3r3\include\conta.h
+	<string>
+	<IConta.h>
+
+1539821848 c:\users\user\desktop\roteiro 3\q3r3\include\iconta.h
+
+1539821848 source:c:\users\user\desktop\roteiro 3\q3r3\src\iconta.cpp
+	"IConta.h"
+

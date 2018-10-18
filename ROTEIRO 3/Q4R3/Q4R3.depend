@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1539827898 source:d:\lucas\documents\programação\roteiro 3 derzu\q4r3\main.cpp
+	<iostream>
+	<string>
+	"Conta.h"
+	"ContaCorrente.h"
+	"ContaEspecial.h"
+	"Poupanca.h"
+
+1539812112 source:d:\lucas\documents\programação\roteiro 3 derzu\q4r3\src\conta.cpp
+	"Conta.h"
+
+1539811123 d:\lucas\documents\programação\roteiro 3 derzu\q4r3\include\conta.h
+	<string>
+	<iostream>
+
+1539812416 source:d:\lucas\documents\programação\roteiro 3 derzu\q4r3\src\poupanca.cpp
+	"Poupanca.h"
+
+1539812048 d:\lucas\documents\programação\roteiro 3 derzu\q4r3\include\poupanca.h
+	<Conta.h>
+
+1539826574 source:d:\lucas\documents\programação\roteiro 3 derzu\q4r3\src\contacorrente.cpp
+	"ContaCorrente.h"
+
+1539812747 d:\lucas\documents\programação\roteiro 3 derzu\q4r3\include\contacorrente.h
+	<Conta.h>
+
+1539826628 source:d:\lucas\documents\programação\roteiro 3 derzu\q4r3\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1539813015 d:\lucas\documents\programação\roteiro 3 derzu\q4r3\include\contaespecial.h
+	<ContaCorrente.h>
+

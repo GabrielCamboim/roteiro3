@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1539820701 source:d:\lucas\documents\programação\roteiro 3 derzu\q5r3\main.cpp
+	<iostream>
+	<SistemaGerenciaFolha.h>
+
+1539813678 source:d:\lucas\documents\programação\roteiro 3 derzu\q5r3\src\funcionario.cpp
+	"Funcionario.h"
+
+1539813591 d:\lucas\documents\programação\roteiro 3 derzu\q5r3\include\funcionario.h
+	<string>
+
+1539816530 source:d:\lucas\documents\programação\roteiro 3 derzu\q5r3\src\assalariado.cpp
+	"Assalariado.h"
+
+1539816530 d:\lucas\documents\programação\roteiro 3 derzu\q5r3\include\assalariado.h
+	<Funcionario.h>
+
+1539816330 source:d:\lucas\documents\programação\roteiro 3 derzu\q5r3\src\horista.cpp
+	"Horista.h"
+
+1539816330 d:\lucas\documents\programação\roteiro 3 derzu\q5r3\include\horista.h
+	<Funcionario.h>
+
+1539816441 source:d:\lucas\documents\programação\roteiro 3 derzu\q5r3\src\comissionado.cpp
+	"Comissionado.h"
+
+1539816441 d:\lucas\documents\programação\roteiro 3 derzu\q5r3\include\comissionado.h
+	<Funcionario.h>
+
+1539820924 source:d:\lucas\documents\programação\roteiro 3 derzu\q5r3\src\sistemagerenciafolha.cpp
+	"SistemaGerenciaFolha.h"
+
+1539821206 d:\lucas\documents\programação\roteiro 3 derzu\q5r3\include\sistemagerenciafolha.h
+	<Funcionario.h>
+	<iostream>
+	<Assalariado.h>
+	<Comissionado.h>
+	<Horista.h>
+
+1539821848 source:c:\users\user\desktop\roteiro 3\q5r3\main.cpp
+	<iostream>
+	<SistemaGerenciaFolha.h>
+
+1539821848 c:\users\user\desktop\roteiro 3\q5r3\include\sistemagerenciafolha.h
+	<Funcionario.h>
+	<iostream>
+	<Assalariado.h>
+	<Comissionado.h>
+	<Horista.h>
+
+1539821848 c:\users\user\desktop\roteiro 3\q5r3\include\funcionario.h
+	<string>
+
+1539821848 c:\users\user\desktop\roteiro 3\q5r3\include\assalariado.h
+	<Funcionario.h>
+
+1539821848 c:\users\user\desktop\roteiro 3\q5r3\include\comissionado.h
+	<Funcionario.h>
+
+1539821848 c:\users\user\desktop\roteiro 3\q5r3\include\horista.h
+	<Funcionario.h>
+
+1539821848 source:c:\users\user\desktop\roteiro 3\q5r3\src\assalariado.cpp
+	"Assalariado.h"
+
+1539821848 source:c:\users\user\desktop\roteiro 3\q5r3\src\funcionario.cpp
+	"Funcionario.h"
+
+1539821848 source:c:\users\user\desktop\roteiro 3\q5r3\src\horista.cpp
+	"Horista.h"
+

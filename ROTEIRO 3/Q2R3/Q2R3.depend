@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1539804501 source:d:\lucas\documents\programação\roteiro 3 derzu\q2r3\main.cpp
+	<iostream>
+	"Triangulo.h"
+	"Retangulo.h"
+	"Circulo.h"
+
+1539802699 source:d:\lucas\documents\programação\roteiro 3 derzu\q2r3\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1539803018 d:\lucas\documents\programação\roteiro 3 derzu\q2r3\include\figurageometrica.h
+	<string>
+
+1539803240 source:d:\lucas\documents\programação\roteiro 3 derzu\q2r3\src\triangulo.cpp
+	"Triangulo.h"
+
+1539803240 d:\lucas\documents\programação\roteiro 3 derzu\q2r3\include\triangulo.h
+	"FiguraGeometrica.h"
+
+1539803513 source:d:\lucas\documents\programação\roteiro 3 derzu\q2r3\src\retangulo.cpp
+	"Retangulo.h"
+
+1539803513 d:\lucas\documents\programação\roteiro 3 derzu\q2r3\include\retangulo.h
+	<FiguraGeometrica.h>
+
+1539804203 source:d:\lucas\documents\programação\roteiro 3 derzu\q2r3\src\circulo.cpp
+	"Circulo.h"
+
+1539804203 d:\lucas\documents\programação\roteiro 3 derzu\q2r3\include\circulo.h
+	<FiguraGeometrica.h>
+
+1539821848 source:c:\users\user\desktop\roteiro 3\q2r3\src\circulo.cpp
+	"Circulo.h"
+
+1539821848 c:\users\user\desktop\roteiro 3\q2r3\include\circulo.h
+	<FiguraGeometrica.h>
+
+1539821848 c:\users\user\desktop\roteiro 3\q2r3\include\figurageometrica.h
+	<string>
+
+1539821848 source:c:\users\user\desktop\roteiro 3\q2r3\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1539821848 source:c:\users\user\desktop\roteiro 3\q2r3\src\retangulo.cpp
+	"Retangulo.h"
+
+1539821848 c:\users\user\desktop\roteiro 3\q2r3\include\retangulo.h
+	<FiguraGeometrica.h>
+
+1539821848 source:c:\users\user\desktop\roteiro 3\q2r3\src\triangulo.cpp
+	"Triangulo.h"
+
+1539821848 c:\users\user\desktop\roteiro 3\q2r3\include\triangulo.h
+	"FiguraGeometrica.h"
+
